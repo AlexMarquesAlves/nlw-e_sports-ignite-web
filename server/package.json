@@ -1,11 +1,11 @@
 {
   "name": "server",
-  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "src/server.js",
   "scripts": {
     "build": "tsc",
+    "dev": "tsnd src/server.ts",
     "test": "vitest"
   },
   "keywords": [],
