@@ -27,7 +27,7 @@
 Status
 
 <h4 align="center">
-	🚧  Ignite 🚀 Under construction...  🚧
+	🚧 NLW E-Sports Ignite 🚀 Under construction...  🚧
 </h4>
 
 <hr>
@@ -62,8 +62,8 @@ The following tools were used in this project:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-<!-- - [React Native](https://reactnative.dev/) -->
 - [TypeScript](https://www.typescriptlang.org/)
+<!-- - [React Native](https://reactnative.dev/) -->
 
 ## :white_check_mark: Requirements
 
