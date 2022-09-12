@@ -6,7 +6,7 @@
   <!-- <a href="https://ignite.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">NLW E-Sports Ignite</h1>
+<h1 align="center">Web App</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/AlexMarquesAlves/ignite?color=56BEB8">
@@ -27,7 +27,7 @@
 Status
 
 <h4 align="center">
-	🚧 NLW E-Sports Ignite 🚀 Under construction...  🚧
+	🚧 Web App 🚀 Under construction...  🚧
 </h4>
 
 <hr>
@@ -58,13 +58,9 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Express](https://expressjs.com/pt-br/)
-- [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [Sass](https://sass-lang.com/)
+- [SASS](https://sass-lang.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [React Native](https://reactnative.dev/)
 
 ## :white_check_mark: Requirements
 
