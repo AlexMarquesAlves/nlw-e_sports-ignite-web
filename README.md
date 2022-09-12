@@ -58,12 +58,13 @@ Describe your project
 
 The following tools were used in this project:
 
-<!-- - [Expo](https://expo.io/) -->
-
+- [Expo](https://expo.io/)
+- [Express](https://expressjs.com/pt-br/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
+- [Sass](https://sass-lang.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-<!-- - [React Native](https://reactnative.dev/) -->
+- [React Native](https://reactnative.dev/)
 
 ## :white_check_mark: Requirements
 
