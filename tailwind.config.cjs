@@ -2,11 +2,11 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}", "./*.html"],
   theme: {
-    extend: {
-      backgroundImage: {
-        galaxy: "url('./public/Fundo.png')",
-      },
+    fontFamily: {
+      sans: ["Inter", "sans-serif"],
     },
+
+    extend: {},
   },
   plugins: [],
 };
