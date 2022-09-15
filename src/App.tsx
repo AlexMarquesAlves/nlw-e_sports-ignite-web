@@ -81,6 +81,10 @@ function App() {
               Publique um anúncio para encontrar novos players!
             </span>
           </div>
+
+          <button className="py-3 px-4 bg-violet-500 hover:bg-violet-600 text-white rounded flex items-center gap-3">
+            Publicar anúncio
+          </button>
         </div>
       </div>
     </div>
