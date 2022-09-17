@@ -1,10 +1,21 @@
 import * as Dialog from "@radix-ui/react-dialog";
 import { GameController } from "phosphor-react";
+import { useEffect, useState } from "react";
 import logoImg from "./assets/Logo.png";
 import { CreateAdBanner } from "./components/CreateAdBanner";
 import { Input } from "./components/Form/input";
 
 function App() {
+  const [games, setGames] = useState([]);
+
+  useEffect(() => {
+    fetch("http://localhost:3333/games")
+      .then((response) => response.json())
+      .then((data) => {
+        setGames(data);
+      });
+  }, []);
+
   return (
     <div className="max-w-[1344px] mx-auto flex flex-col items-center my-20">
       <img src={logoImg} alt="" />
