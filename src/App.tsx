@@ -5,8 +5,17 @@ import logoImg from "./assets/Logo.png";
 import { CreateAdBanner } from "./components/CreateAdBanner";
 import { Input } from "./components/Form/input";
 
+interface Game {
+  id: string;
+  title: string;
+  bannerUrl: string;
+  _count: {
+    ads: number;
+  };
+}
+
 function App() {
-  const [games, setGames] = useState([]);
+  const [games, setGames] = useState<Game[]>([]);
 
   useEffect(() => {
     fetch("http://localhost:3333/games")
