@@ -17,11 +17,11 @@
 
   <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/nlw-e_sports-ignite-web?color=9A35FF">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/nlw-e_sports-ignite-web?color=9A35FF" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/nlw-e_sports-ignite-web?color=9A35FF" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/nlw-e_sports-ignite-web?color=9A35FF" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/nlw-e_sports-ignite-web?color=9A35FF" />
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/nlw-e_sports-ignite-web?color=9A35FF" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/nlw-e_sports-ignite-web?color=9A35FF" />
 </p>
 
 Status
@@ -70,10 +70,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/AlexMarquesAlves/ignite
+$ git clone https://github.com/AlexMarquesAlves/nlw-e_sports-ignite-web
 
 # Access
-$ cd ignite
+$ cd nlw-e_sports-ignite-web
 
 # Install dependencies
 $ yarn
